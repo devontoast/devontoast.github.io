@@ -1,0 +1,38 @@
+html{
+  background-color: #AA9F94;
+  overflow: hidden;
+}
+
+@font-face {
+  font-family: "Quartzo";
+  src: url(/Users/devanshshah/Library/Fonts/QUARTZO-demo2.tff);
+  font-family: "Aardvark Cafe"
+  src:url(/Users/devanshshah/Library/Fonts/AARDC___.TTF);
+}
+
+#stuff {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  width: auto;
+  display: block;
+}
+
+#Name {
+  display: block;
+  text-align: center;
+  font-family: Quartzo;
+}
+
+#description {
+  display: block;
+  text-align: center;
+  font-family: Quartzo;
+  font-size: 300%
+}

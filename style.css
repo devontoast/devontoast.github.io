@@ -5,9 +5,9 @@ html{
 
 @font-face {
   font-family: "Quartzo";
-  src: url(/Users/devanshshah/Library/Fonts/QUARTZO-demo2.tff);
+  src: url(/Users/devanshshah/Library/Fonts/QUARTZO-demo2.tff)format('truetype');
   font-family: "Aardvark Cafe"
-  src:url(/Users/devanshshah/Library/Fonts/AARDC___.TTF);
+  src:url(/Users/devanshshah/Library/Fonts/AARDC___.TTF)format('truetype');
 }
 
 #stuff {
